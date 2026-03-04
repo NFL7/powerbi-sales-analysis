@@ -1,46 +1,48 @@
- GreenGrowth – Audit de Risques & Conformité
- Contexte du projet
-Ce projet simule un audit stratégique pour GreenGrowth, une scale-up agritech en forte croissance (150 employés, expansion US et Allemagne, levée de fonds de 20M€).
-L’objectif est d’évaluer les risques cybersécurité et la conformité réglementaire dans un contexte d’expansion internationale.
+  FastDeliver & LogistiCorp – Fusion & Gouvernance des Risques
+  Contexte
+Ce projet Power BI analyse la fusion-acquisition entre FastDeliver et LogistiCorp, en mettant l’accent sur :
+•	Le suivi d’avancement du programme de gouvernance
+•	L’exposition aux risques (Cyber, RGPD, Data)
+•	L’adoption des mesures de conformité
+L’objectif est de fournir une vision consolidée de la maturité post-fusion.
 
- Problématique
-La croissance rapide expose l’entreprise à plusieurs risques critiques :
-•	Données clients non chiffrées
-•	Gouvernance RGPD incomplète
-•	Vulnérabilités IoT
-•	Modèles IA exposés au data poisoning
-•	Risque juridique lié au Cloud Act
+  KPIs Stratégiques
+•	Taux d’avancement global : 57,5 %
+•	Score moyen de risque : 2,20
+•	Domaine le plus exposé : Cyber (3,00 – Élevé)
+•	Adoption classification données : 25 %
 
- Méthodologie
-•	Analyse de risques basée sur EBIOS RM
-•	Cartographie des flux de données
-•	Analyse de conformité réglementaire :
-o	Règlement général sur la protection des données
-o	AI Act
-o	Cloud Act
-•	Évaluation de l’infrastructure cloud (MongoDB, PostgreSQL, AWS)
+  Analyse des Risques (KRI)
+  Domaine Cyber – Niveau Élevé
+•	Accès non contrôlé aux données
+•	Fuite de données clients
+  Domaine RGPD – Niveau Moyen
+•	Non-conformité réglementaire
+  Domaine Data – Niveau Faible à Moyen
+•	Mauvaise classification
+•	Qualité des données insuffisante
 
- Principaux Risques Identifiés
- 	Risques critiques
-•	Base MongoDB non chiffrée
-•	Accès cloud trop permissifs
-•	Sécurité IoT insuffisante
-•	Absence de DPO
-•	Manque de traçabilité des modèles IA
+ Gouvernance & Avancement
+Avancement par domaine
+•	RGPD : 75 %
+•	Data : 63,33 %
+•	Cyber : 40 %
+Avancement par phase
+•	Court terme : 71,25 %
+•	Moyen terme : 40 %
+•	Long terme : 20 %
 
- Visualisation Power BI
-Le dashboard présente :
-•	Une vue consolidée des risques (KRI)
-•	L’état de conformité réglementaire
-•	Une priorisation stratégique des actions
-•	Une roadmap court / moyen / long terme
+ Insights Clés
+•	Le programme avance correctement sur le court terme.
+•	Le domaine Cyber représente le risque principal post-fusion.
+•	L’adoption de la classification des données reste faible.
+•	Les mesures long terme sont encore peu avancées.
 
  Fichiers inclus
-•	Final_Dashboard_SAE2.pbix → Fichier Power BI
-•	Canva SAE1 Final version.pdf → Rapport complet
-•	Captures des dashboards
+•	Final_Dashboard_SAE2.pbix – Dashboard Power BI
+•	Final_Dashboard_SAE2.pdf – Export PDF
+•	Captures d’écran du dashboard
 
- Vision stratégique
-Objectif final :
-Sécuriser la croissance internationale tout en garantissant la conformité réglementaire et la confiance des investisseurs.
+ Objectif Business
+Fournir aux décideurs une vue synthétique des risques et du niveau de maturité de gouvernance afin de sécuriser la fusion et limiter les risques opérationnels et réglementaires.
 
